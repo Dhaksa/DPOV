@@ -1,0 +1,28 @@
+running develop
+running egg_info
+creating ros2_camera_lidar_fusion.egg-info
+writing ros2_camera_lidar_fusion.egg-info/PKG-INFO
+writing dependency_links to ros2_camera_lidar_fusion.egg-info/dependency_links.txt
+writing entry points to ros2_camera_lidar_fusion.egg-info/entry_points.txt
+writing requirements to ros2_camera_lidar_fusion.egg-info/requires.txt
+writing top-level names to ros2_camera_lidar_fusion.egg-info/top_level.txt
+writing manifest file 'ros2_camera_lidar_fusion.egg-info/SOURCES.txt'
+reading manifest file 'ros2_camera_lidar_fusion.egg-info/SOURCES.txt'
+writing manifest file 'ros2_camera_lidar_fusion.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/lib/python3.10/site-packages/ros2-camera-lidar-fusion.egg-link (link to .)
+Installing extract_points script to /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/lib/ros2_camera_lidar_fusion
+Installing get_extrinsic_camera_calibration script to /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/lib/ros2_camera_lidar_fusion
+Installing get_intrinsic_camera_calibration script to /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/lib/ros2_camera_lidar_fusion
+Installing lidar_camera_projection script to /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/lib/ros2_camera_lidar_fusion
+Installing save_data script to /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/lib/ros2_camera_lidar_fusion
+
+Installed /home/dhaksana/ros2_ws/build/ros2_camera_lidar_fusion
+running symlink_data
+creating /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/share/ament_index
+creating /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/share/ament_index/resource_index
+creating /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/share/ament_index/resource_index/packages
+symbolically linking /home/dhaksana/ros2_ws/build/ros2_camera_lidar_fusion/resource/ros2_camera_lidar_fusion -> /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/share/ament_index/resource_index/packages
+symbolically linking /home/dhaksana/ros2_ws/build/ros2_camera_lidar_fusion/package.xml -> /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/share/ros2_camera_lidar_fusion
+creating /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/share/ros2_camera_lidar_fusion/config
+symbolically linking /home/dhaksana/ros2_ws/build/ros2_camera_lidar_fusion/config/general_configuration.yaml -> /home/dhaksana/ros2_ws/install/ros2_camera_lidar_fusion/share/ros2_camera_lidar_fusion/config
