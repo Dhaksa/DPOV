@@ -1,0 +1,10 @@
+# Ignore virtual environment and site-packages
+Lib/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Optional: Ignore large or intermediate files
+*.pt
+*.jpg

@@ -1,0 +1,12 @@
+names:
+- Pallet
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pallet-detection-qanxs
+  url: https://universe.roboflow.com/dhaksana-e11fm/pallet-detection-qanxs/dataset/1
+  version: 1
+  workspace: dhaksana-e11fm
+test: ../test/images
+train: ../train/images
+val: ../valid/images
